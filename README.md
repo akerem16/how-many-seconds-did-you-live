@@ -1,19 +1,19 @@
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-:en:  How Many Seconds Have You Been Alive Project
+:us:  How Many Seconds Have You Been Alive Project
 
-:en:  The project has been prepared in both English and Turkish.
+:us:  The project has been prepared in both English and Turkish.
 
-:en:  Calculates how many seconds you are alive. It has a descriptive
+:us:  Calculates how many seconds you are alive. It has a descriptive
 
-:tr:  You can share and use it wherever you want by showing the source.
+:us:  You can share and use it wherever you want by showing the source.
 
-:en:  Open Source. It is suitable for development.
+:us:  Open Source. It is suitable for development.
 
-:en:  Prepared in Turkey.
+:us:  Prepared in Turkey.
 
-:en:  Prepared by akerem16.
+:us:  Prepared by akerem16.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
